@@ -10,7 +10,6 @@ blog.csdn.net##.csdn-redpack-result
 blog.csdn.net###csdn-redpack
 blog.csdn.net##.csdn-redpack-container
 blog.csdn.net##.passport-login-mark
-v.qq.com###txp_ad#txplayer_fe5d829aea0c5d94ca4a00ac1c4f8784 > txpdiv:nth-child(6) > txpdiv.txp_ad
 v.qq.com##.txp_ad
 v.qq.com##.txp_top_btns
 v.qq.com##.txp-watermark
