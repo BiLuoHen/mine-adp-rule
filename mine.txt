@@ -1,0 +1,29 @@
+microk8s.io##.p-modal__dialog
+microk8s.io###modal
+microk8s.io##.p-modal
+ubuntu.com##.p-modal__dialog
+ubuntu.com###modal
+ubuntu.com##.p-modal
+blog.csdn.net##div[style="width:100%; height:100%; background-image: url(https://img-bss.csdn.net/1634717301265.gif); background-size: auto 80px;background-repeat: no-repeat; background-position: center center;"]
+blog.csdn.net##.toolbar-advert-default
+blog.csdn.net##.csdn-redpack-noluck-area
+blog.csdn.net##.csdn-redpack-result
+blog.csdn.net###csdn-redpack
+blog.csdn.net##.csdn-redpack-container
+blog.csdn.net##.passport-login-mark
+blog.csdn.net##span[style="display: inline-block; color: #999; font-size: 22px; cursor: pointer; position:absolute; top:2%; right:3%;-moz-user-select:none; -webkit-user-select:none; user-select:none;"]
+v.qq.com###txp_ad#txplayer_fe5d829aea0c5d94ca4a00ac1c4f8784 > txpdiv:nth-child(6) > txpdiv.txp_ad
+v.qq.com##.txp_ad
+v.qq.com##.txp_top_btns
+v.qq.com##.txp-watermark
+v.youku.com##.youku-layer-logo
+blog.csdn.net##.passport-login-container
+v.qq.com##.hd-ad-adapter-interactivelayer
+v.qq.com##.hd-ad-adapter-adlayer
+v.qq.com##txpdiv[data-role~="hd-ad"]
+v.qq.com##txpdiv[data-role~="hd-ad-adapter-interactivelayer"]
+||yhdm.so/bar/960_100.jpg
+||yhdm.so/bar/*.jpg
+||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
+||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fe3002%2Farticle%2Fdetails%2F100691472&iframe=true&newframe=true
+||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2FZZh1301051836%2Farticle%2Fdetails%2F101106024&iframe=true&newframe=true
