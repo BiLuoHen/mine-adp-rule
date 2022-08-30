@@ -1,12 +1,9 @@
 microk8s.io##.p-modal__dialog
-microk8s.io###modal
 microk8s.io##.p-modal
 ubuntu.com##.p-modal__dialog
-ubuntu.com###modal
 ubuntu.com##.p-modal
 blog.csdn.net##.toolbar-advert-default
 blog.csdn.net##.csdn-redpack-noluck-area
 blog.csdn.net##.csdn-redpack-result
-blog.csdn.net###csdn-redpack
 blog.csdn.net##.csdn-redpack-container
 blog.csdn.net##.passport-login-mark
