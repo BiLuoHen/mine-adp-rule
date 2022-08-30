@@ -20,8 +20,3 @@ v.qq.com##.hd-ad-adapter-interactivelayer
 v.qq.com##.hd-ad-adapter-adlayer
 v.qq.com##txpdiv[data-role~="hd-ad"]
 v.qq.com##txpdiv[data-role~="hd-ad-adapter-interactivelayer"]
-||yhdm.so/bar/960_100.jpg
-||yhdm.so/bar/*.jpg
-||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
-||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fe3002%2Farticle%2Fdetails%2F100691472&iframe=true&newframe=true
-||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2FZZh1301051836%2Farticle%2Fdetails%2F101106024&iframe=true&newframe=true
