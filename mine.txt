@@ -10,12 +10,3 @@ blog.csdn.net##.csdn-redpack-result
 blog.csdn.net###csdn-redpack
 blog.csdn.net##.csdn-redpack-container
 blog.csdn.net##.passport-login-mark
-v.qq.com##.txp_ad
-v.qq.com##.txp_top_btns
-v.qq.com##.txp-watermark
-v.youku.com##.youku-layer-logo
-blog.csdn.net##.passport-login-container
-v.qq.com##.hd-ad-adapter-interactivelayer
-v.qq.com##.hd-ad-adapter-adlayer
-v.qq.com##txpdiv[data-role~="hd-ad"]
-v.qq.com##txpdiv[data-role~="hd-ad-adapter-interactivelayer"]
