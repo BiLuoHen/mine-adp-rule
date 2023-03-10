@@ -25,6 +25,7 @@ v.qq.com##.hd-ad-adapter-interactivelayer
 v.qq.com##.hd-ad-adapter-adlayer
 v.qq.com##txpdiv[data-role~="hd-ad"]
 v.qq.com##txpdiv[data-role~="hd-ad-adapter-interactivelayer"]
+v.qq.com##txpdiv[data-role~="creative-player-pause-layer"]
 ||yhdm.so/bar/960_100.jpg
 ||yhdm.so/bar/*.jpg
 ||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
