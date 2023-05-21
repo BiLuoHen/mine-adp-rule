@@ -15,17 +15,10 @@ blog.csdn.net###csdn-redpack
 blog.csdn.net##.csdn-redpack-container
 blog.csdn.net##.passport-login-mark
 blog.csdn.net##span[style="display: inline-block; color: #999; font-size: 22px; cursor: pointer; position:absolute; top:2%; right:3%;-moz-user-select:none; -webkit-user-select:none; user-select:none;"]
-v.qq.com###txp_ad#txplayer_fe5d829aea0c5d94ca4a00ac1c4f8784 > txpdiv:nth-child(6) > txpdiv.txp_ad
-v.qq.com##.txp_ad
-v.qq.com##.txp_top_btns
 v.qq.com##.txp-watermark
 v.youku.com##.youku-layer-logo
 blog.csdn.net##.passport-login-container
-v.qq.com##.hd-ad-adapter-interactivelayer
-v.qq.com##.hd-ad-adapter-adlayer
-v.qq.com##txpdiv[data-role~="hd-ad"]
-v.qq.com##txpdiv[data-role~="hd-ad-adapter-interactivelayer"]
-v.qq.com##txpdiv[data-role~="creative-player-pause-layer"]
+v.qq.com##txpdiv[data-role="creative-player-pause-layer"]
 ||yhdm.so/bar/960_100.jpg
 ||yhdm.so/bar/*.jpg
 ||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
