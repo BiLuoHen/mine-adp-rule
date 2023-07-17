@@ -24,3 +24,4 @@ v.qq.com##txpdiv[data-role="creative-player-pause-layer"]
 ||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fe3002%2Farticle%2Fdetails%2F100691472&iframe=true&newframe=true
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2FZZh1301051836%2Farticle%2Fdetails%2F101106024&iframe=true&newframe=true
+||vm.gtimg.cn/z/static/aegis/aegis.min.js
