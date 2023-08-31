@@ -23,7 +23,6 @@ blog.csdn.net##.passport-login-container
 ||staticfile.qq.com/datong/universalReportH5/v3.5.8/universal-report.min.js
 ||beacon.cdn.qq.com/sdk/4.5.16/beacon_web.min.js
 ||staticfile.qq.com/datong/universalReportH5/v1.0.3/universal-report-lite.min.js
-||yhdm.so/bar/*.jpg
 ||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fe3002%2Farticle%2Fdetails%2F100691472&iframe=true&newframe=true
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2FZZh1301051836%2Farticle%2Fdetails%2F101106024&iframe=true&newframe=true
