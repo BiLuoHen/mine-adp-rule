@@ -20,8 +20,6 @@ v.youku.com##.youku-layer-logo
 v.youku.com##.advertise-layer
 blog.csdn.net##.passport-login-container
 v.qq.com##txpdiv[data-role="creative-player-pause-layer"]
-||staticfile.qq.com/datong/universalReportH5/v1.0.3/universal-report-lite.min.js
-||staticfile.qq.com/datong/universalReportH5/v3.5.8/universal-report.min.js
 ||yhdm.so/bar/*.jpg
 ||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fe3002%2Farticle%2Fdetails%2F100691472&iframe=true&newframe=true
