@@ -18,6 +18,7 @@ blog.csdn.net##span[style="display: inline-block; color: #999; font-size: 22px; 
 v.youku.com##.youku-layer-logo
 v.youku.com##.advertise-layer
 blog.csdn.net##.passport-login-container
+v.qq.com##.txp-watermark
 ||vm.gtimg.cn/z/static/aegis/aegis.min.js
 ||cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js
 ||staticfile.qq.com/datong/universalReportH5/v3.5.8/universal-report.min.js
