@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-!Title:Mine
-!Author:BiLuohen
-!Expires: 1 hours
+! Title:Mine
+! Author:BiLuohen
+! Expires: 1 hours
 microk8s.io##.p-modal__dialog
 microk8s.io###modal
 microk8s.io##.p-modal
