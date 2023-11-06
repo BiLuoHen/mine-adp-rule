@@ -20,10 +20,9 @@ v.youku.com##.youku-layer-logo
 v.youku.com##.advertise-layer
 blog.csdn.net##.passport-login-container
 v.qq.com#$#.txp-watermark{visibility:hidden !important}
-||vm.gtimg.cn/z/static/aegis/aegis.min.js
-||cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js
-||staticfile.qq.com/datong/universalReportH5/v3.5.8/universal-report.min.js
-||beacon.cdn.qq.com/sdk/4.5.16/beacon_web.min.js
+@@trace.qq.com^
+@@otheve.beacon.qq.com
+@@aegis.qq.com
 ||g.csdnimg.cn/common/redpack/images/redpack-noluck.png
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fe3002%2Farticle%2Fdetails%2F100691472&iframe=true&newframe=true
 ||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2FZZh1301051836%2Farticle%2Fdetails%2F101106024&iframe=true&newframe=true
